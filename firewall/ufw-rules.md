@@ -41,3 +41,8 @@ This server is reachable only via a private ZeroTier network.
 ```bash
 ip a | grep zt
 ```
+Connectivity test
+```
+ping <zerotier-ip>
+ssh user@<zerotier-ip>
+```
