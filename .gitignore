@@ -1,1 +1,11 @@
+# Minecraft data
+minecraft-data/
 
+# Backups
+backups/*.tar.gz
+
+# Secrets
+*.env
+
+# Docker
+.env
